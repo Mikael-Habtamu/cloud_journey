@@ -1,0 +1,6 @@
+instance_id,name,env,cpu,monthly_cost,status
+i-abc123,web-01,prod,45,120.50,running
+i-def456,web-02,prod,78,120.50,running
+i-ghi789,db-01,prod,91,340.00,running
+i-jkl012,cache-01,dev,12,45.25,stopped
+i-mno345,web-03,dev,,60.00,stopped
